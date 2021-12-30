@@ -1,2 +1,21 @@
-# portfolio
-My Portfolio
+
+# My Portfolio
+- Apple Watch *Landing Page* - [View](https://firsturdiev.github.io/NT-projects/apple-watch) | [Source](https://github.com/firsturdiev/NT-projects/tree/main/apple-watch)
+- Bookmark App *Landing Page* - [View](https://firsturdiev.github.io/NT-projects/bookmark) | [Source](https://github.com/firsturdiev/NT-projects/tree/main/bookmark)
+- Cofferoasters *Product Website* - [View](https://firsturdiev.github.io/NT-projects/coffeeroasters) | [Source](https://github.com/firsturdiev/NT-projects/tree/main/coffeeroasters)
+- Easybank App *Landing Page* - [View](https://firsturdiev.github.io/NT-projects/easybank) | [Source](https://github.com/firsturdiev/NT-projects/tree/main/easybank)
+- Executive Study Abroad *Landing Page* - [View](https://firsturdiev.github.io/NT-projects/executive-study) | [Source](https://github.com/firsturdiev/NT-projects/tree/main/executive-study)
+- Insure *Landing Page* - [View](https://firsturdiev.github.io/NT-projects/**job-listings-with-filtering**) | [Source](https://github.com/firsturdiev/NT-projects/tree/main/insure)
+- Namanganliklar 24 *News Website* - [View](https://firsturdiev.github.io/NT-projects/namanganliklar-24) | [Source](https://github.com/firsturdiev/NT-projects/tree/main/namanganliklar-24)
+- Pixer *Startup Website* - [View](https://firsturdiev.github.io/NT-projects/pixer) | [Source](https://github.com/firsturdiev/NT-projects/tree/main/pixer)
+- Shortly App  *Landing Page* - [View](https://firsturdiev.github.io/NT-projects/shortly-landing-page) | [Source](https://github.com/firsturdiev/NT-projects/tree/main/shortly-landing-page)
+- Freshnesecom  *E-commerce Website* - [View](https://nt-ecommerce.netlify.app/) | [Source](https://github.com/firsturdiev/nt-ecommerce)
+- Myteam  *Business Website* - [View](https://firsturdiev.github.io/nt-myteam) | [Source](https://github.com/firsturdiev/nt-myteam)
+- PayAPI *Landing Page* - [View](https://firsturdiev.github.io/nt-pay-api/) | [Source](https://github.com/firsturdiev/nt-pay-api)
+- Portfolio *Landing Page* - [View](https://nt-portfolio-sass.netlify.app/) | [Source](https://github.com/firsturdiev/nt-portfolio-sass)
+- Scoot *Business Website* - [View](https://firsturdiev.github.io/nt-scoot) | [Source](https://github.com/firsturdiev/nt-scoot)
+- Sunnyside *Landing Page* - [View](https://firsturdiev.github.io/nt-sunnyside) | [Source](https://github.com/firsturdiev/nt-sunnyside)
+- Vet Clinic *Business Website* - [View](https://firsturdiev.github.io/nt-vet-clinic) | [Source](https://github.com/firsturdiev/nt-vet-clinic)
+- Ceisar Shift Decoder/Encoder *App* - [View](https://firsturdiev.github.io/nt-ceisar-shift) | [Source](https://github.com/firsturdiev/nt-ceisar-shift)
+- letBooks *Wiki App* - [View](https://firsturdiev.github.io/nt-letbooks/) | [Source](https://github.com/firsturdiev/nt-letbooks)
+- letMovies *Wiki App* - [View](https://firsturdiev.github.io/nt-movies-list) | [Source](https://github.com/firsturdiev/nt-movies-list)
