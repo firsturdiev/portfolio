@@ -1,4 +1,3 @@
-
 # My Portfolio
 - Apple Watch *Landing Page* - [View](https://firsturdiev.github.io/NT-projects/apple-watch) | [Source](https://github.com/firsturdiev/NT-projects/tree/main/apple-watch)
 - Bookmark App *Landing Page* - [View](https://firsturdiev.github.io/NT-projects/bookmark) | [Source](https://github.com/firsturdiev/NT-projects/tree/main/bookmark)
@@ -19,3 +18,5 @@
 - Ceisar Shift Decoder/Encoder *App* - [View](https://firsturdiev.github.io/nt-ceisar-shift) | [Source](https://github.com/firsturdiev/nt-ceisar-shift)
 - letBooks *Wiki App* - [View](https://firsturdiev.github.io/nt-letbooks/) | [Source](https://github.com/firsturdiev/nt-letbooks)
 - letMovies *Wiki App* - [View](https://firsturdiev.github.io/nt-movies-list) | [Source](https://github.com/firsturdiev/nt-movies-list)
+- Products Feedback *API-powered CRUD App* - [View](https://nt-products-feedback.netlify.app) | [Source](https://github.com/firsturdiev/nt-products-feedback)
+- Todo *App* - [View](https://nt-todo-app.netlify.app/) | [Source](https://github.com/firsturdiev/nt-todo-app)
